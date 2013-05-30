@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Encode Greek Subs
+Comment=Encode Greek Subtitles
+Name[el]=Κωδικοποίησε Υπότιτλους
+Comment[el]=Κωδικοποίησε Υπότιτλους
+Exec=encodeSubs %F
+Icon-Name=gtk-execute
+Selection=S
+Extensions=srt;sub;
