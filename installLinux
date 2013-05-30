@@ -3,8 +3,5 @@ echo "Installing encodeSubs"
 chmod +x encode.py
 sudo cp encode.py /usr/bin/encodeSubs
 
-echo "Installing Right Click Nemo Action"
-sudo cp encodeSubs.nemo_action  /usr/share/nemo/actions/encodeSubs.nemo_action
-
 echo "Operation Finished"
  
