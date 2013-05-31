@@ -18,6 +18,19 @@ Install
 **For Mac OSx**   
 ./installMac   
    
+   
+Uninstall
+---------
+**For Linux**   
+Delete encodeSubs file from /usr/bin   
+   
+**For Mac OSx**   
+Delete encodeSubs file from /usr/sbin  
+   
+**For Linux Mint 15+**   
+Delete encodeSubs file from /usr/bin and also run uninstallContext   
+or delete encodeSubs.nemo_action from /usr/share/nemo/actions   
+   
 Linux Mint
 ----------
 Latest Linux Mint 15 File Manager (Nemo) has a new feature called Nemo actions   
