@@ -9,11 +9,17 @@ python
 
 Install
 -------
-For Linux   
+**For Linux**   
 ./installLinux   
    
-For LinuxMint   
+**For Linux Mint 15+**   
 ./installMint   
    
-For Mac OSx   
+**For Mac OSx**   
 ./installMac   
+   
+Linux Mint
+----------
+Latest Linux Mint 15 File Manager (Nemo) has a new feature called Nemo actions   
+which is an easy way to add right click context   
+'installMint' copies encodeSubs.nemo_action to /usr/share/nemo/actions   
